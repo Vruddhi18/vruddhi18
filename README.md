@@ -39,9 +39,9 @@ I’m Vruddhi Shah — an aspiring Data Scientist and AI/ML Engineer.<br>
 <p align="center">
     <a href="https://github.com/Vruddhi18">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vruddhi18&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true"/>
-
+    </a>
             
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vruddhi18&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+   <a href="https://github.com/Vruddhi18">      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vruddhi18&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
 
