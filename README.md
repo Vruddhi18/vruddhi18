@@ -73,35 +73,14 @@ I'm **Vruddhi Shah** — an aspiring Data Scientist and AI/ML Engineer.
   </a>
 </p>
 
-## 🔝 Featured Repos
-
-<p align="center">
-  <a href="https://github.com/Vruddhi18/vruddhishah.vercel.app">
-    <img height="150em" src="https://github-stats-extended.vercel.app/api/pin/?username=Vruddhi18&repo=vruddhishah.vercel.app&theme=radical&hide_border=true" />
-  </a>
-</p>
-
-<!--
-This section previously used github-contributor-stats.vercel.app, but that
-service's public deployment is currently returning 402 Payment Required
-(the owner's Vercel project has been paused) and has no maintained fork.
-Swapped to pinned-repo cards on GitHub Stats Extended instead — same
-purpose (showcasing top work), more reliable infra.
-Update `repo=` above to whichever repo you want to feature, or duplicate
-the block to pin more than one.
--->
-
-
-<!--
-The default public instance (github-profile-trophy.vercel.app) is known to get
-rate-limited and paused periodically — the project's own README acknowledges
-this and lists volunteer-hosted mirrors to work around it. Using one below.
--->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Vruddhi18&theme=onedark&no-frame=true&margin-w=15" alt="Vruddhi18" />
-  </a>
+## Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Vruddhi18&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br>
+<div id="header" align="center">
+<p align="center"› <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?
+username=Vruddhi18" alt="Vruddhi18" /></a> </p>
 </div>
+
 
 <!--
 **Vruddhi18/vruddhi18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
