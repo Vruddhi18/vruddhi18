@@ -74,14 +74,22 @@ I'm **Vruddhi Shah** — an aspiring Data Scientist and AI/ML Engineer.
 </p>
 
 ## Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vruddhi18&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<p align="center">
+  <a href="https://github.com/Vruddhi18">
+    <img src="https://github-contribution-card.vercel.app/api?username=Vruddhi18&theme=dark" alt="Top Contributed Repos" />
+  </a>
+</p>
+
 <br>
+
 <div id="header" align="center">
-<p align="center"› <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?
-username=Vruddhi18" alt="Vruddhi18" /></a> </p>
+  <p align="center">
+    <a href="https://github.com/Vruddhi18">
+      <img src="https://github-profile-trophy-tawny.vercel.app/?username=Vruddhi18&theme=flat" alt="Vruddhi18 Trophies" />
+    </a>
+  </p>
 </div>
-
-
 <!--
 **Vruddhi18/vruddhi18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
