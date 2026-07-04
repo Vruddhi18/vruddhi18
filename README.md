@@ -77,6 +77,12 @@ I'm **Vruddhi Shah** — an aspiring Data Scientist and AI/ML Engineer.
 
 <p align="center">
   <a href="https://github.com/Vruddhi18">
+    <img src="https://ghchart.rshah.org/Vruddhi18" alt="Top Contributed Repos" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Vruddhi18">
     <img src="https://github-contribution-card.vercel.app/api?username=Vruddhi18&theme=dark" alt="Top Contributed Repos" />
   </a>
 </p>
